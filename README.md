@@ -1,6 +1,6 @@
 # ASME SDC 2025–26: Dual Trapdoor Sorting Mechanism
 
-SolidWorks mechanism design for the American Society of Mechanical Engineers' Student Design Competition 2025–26 — a dual trapdoor sequential-release mechanism built for an autonomous waste-sorting robot at the University of Central Florida.
+SolidWorks mechanism design for the American Society of Mechanical Engineers' Student Design Competition 2025–26, a dual trapdoor sequential-release mechanism built for an autonomous waste-sorting robot at the University of Central Florida.
 
 ## Problem
 
