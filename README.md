@@ -8,7 +8,7 @@ The robot's basket needed to release two color-categorized waste types at two se
 
 ## Viewing the files
 
-- **Quick view, no SolidWorks license needed:** open the `.EASM` files in the `eDrawings/` folder with the free [eDrawings Viewer](https://www.edrawingsviewer.com/). This folder has a curated subset of the full version history below.
+- **Quick view, no SolidWorks license needed:** open the `.EASM` files with the free [eDrawings Viewer](https://www.edrawingsviewer.com/). Some `.STL` files have been included, however this is only for v3-v5, as this was when physical testing was conducted.
 - **Full native files:** every version folder (`PSB-v1` through `PSB-v5`, `PSB-Alex-8x8`, `Basket-prototype-1-materials`) contains the original `.SLDASM`/`.SLDPRT` files for anyone with SolidWorks who wants to inspect the feature tree and mate scheme directly.
 
 ## Version history
